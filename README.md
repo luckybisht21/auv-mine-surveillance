@@ -126,7 +126,7 @@ A [sample mission log](results/sample_mission_log.csv) is included, recording AU
 ## Author
 
 **Lucky Bisht** — B.Tech Automation & Robotics, GGSIPU Delhi
-Embedded/SLAM Intern @ Navyug Infosolutions · [LinkedIn](https://linkedin.com/in/luckybisht) · [GitHub](https://github.com/luckybisht21)
+Embedded/SLAM Intern @ Navyug Infosolutions · [LinkedIn](https://www.linkedin.com/in/lucky-bisht-b176b2291/) · [GitHub](https://github.com/luckybisht21)
 
 ## License
 
